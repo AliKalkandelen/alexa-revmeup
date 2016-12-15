@@ -1,0 +1,11 @@
+{
+  "name": "revmeup",
+  "version": "1.0.0",
+  "description": "Revs You Up by playing Shia Lebeouf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Kalkandelen",
+  "license": "ISC"
+}
